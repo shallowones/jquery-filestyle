@@ -1,0 +1,26 @@
+{
+  "name": "jfilestyle",
+  "version": "2.1.0",
+  "description": "Personalize your input file and let the beautiful.",
+  "main": "src/jquery-filestyle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markusslima/jquery-filestyle.git"
+  },
+  "keywords": [
+    "jquery",
+    "jquery-filestyle",
+    "jfilestyle",
+    "filestyle",
+    "2.1.0"
+  ],
+  "author": "markusslima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markusslima/jquery-filestyle/issues"
+  },
+  "homepage": "http://markusslima.github.io/jquery-filestyle/index.html"
+}
